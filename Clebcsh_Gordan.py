@@ -79,11 +79,9 @@ m = j # Réinitialisation de la valeur de m
 """
 *** First state after state |J, M> is |J, M - 1>, so i starts with 1.
 
-*** The first state |J, M> and the last state |J, -M> are known, so the number of states we are
+*** The first state |J, M> and the last state |J, -M> , so the number of states we have is 2j +1 
 """
 
-
-m = j # Réinitialisation de la valeur de m  
 
 f3 = " " # Ex : <2,-1|2,-1> =   + 1/2 + 1/2 = 1         Normalization Condition is verified 
 i = 0 
